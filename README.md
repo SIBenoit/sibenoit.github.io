@@ -1,4 +1,4 @@
-# sibenoit.github.io
+# [sibenoit.github.io](http://sibenoit.github.io/)
 
 Simon Benoit's personal webpage.
 
