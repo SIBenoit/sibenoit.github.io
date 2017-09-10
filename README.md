@@ -1,2 +1,7 @@
 # sibenoit.github.io
-Simon's personal webpage
+
+Simon Benoit's personal webpage.
+
+### Credits
+
+Started with the instructions on [Jonathan Mcglone](http://jmcglone.com/guides/github-pages/).
